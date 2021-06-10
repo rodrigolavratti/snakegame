@@ -1,0 +1,14 @@
+body {
+    background-image: url('/img/logo.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    font-size: 50px;
+    color: rgb(221, 221, 221);
+}
